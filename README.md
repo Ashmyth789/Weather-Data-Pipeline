@@ -1,6 +1,7 @@
 # Weather Data Pipeline
 
-An end-to-end data engineering project that collects, processes, stores, and visualizes real-time weather data using Python and Streamlit.
+An end-to-end data engineering project that collects, processes, stores, and visualizes real-time weather data using OpenWeatherMap API, 
+Python and Streamlit.
 
 ## Live Dashboard
 Run locally using the steps below.
