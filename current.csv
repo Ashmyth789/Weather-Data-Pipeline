@@ -1,0 +1,5 @@
+id,city,timestamp,temperature,feels_like,humidity,pressure,weather_desc,wind_speed,rain_1h,temp_category
+1,Chennai,2026-04-18 11:51:43,31.78,38.78,69.0,1007.0,scattered clouds,5.14,0.0,Warm
+2,Mumbai,2026-04-18 11:51:43,33.99,38.04,49.0,1005.0,smoke,6.17,0.0,Warm
+3,Delhi,2026-04-18 11:51:44,39.05,36.71,14.0,1002.0,haze,3.09,0.0,Hot
+4,Bangalore,2026-04-18 11:51:44,33.93,33.03,29.0,1007.0,few clouds,10.73,0.0,Warm
