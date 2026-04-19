@@ -2,7 +2,7 @@ import requests
 import json
 from datetime import datetime
 
-API_KEY = "e916ae7c1affc77dec1900697dac0818"
+API_KEY = "c07e1bbc40d3fc3bcf9fbe0559b2b464"
 CITIES = ["Chennai", "Mumbai", "Delhi", "Bangalore"]
 
 def fetch_current_weather(city):
@@ -21,4 +21,4 @@ if __name__ == "__main__":
     for city in CITIES:
         data = fetch_current_weather(city)
         print(f"{city}: {data['main']['temp']}°C")
-        
+            
