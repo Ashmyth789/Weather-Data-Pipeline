@@ -67,4 +67,4 @@ with col_right2:
 
 st.divider()
 st.subheader("Raw data")
-st.dataframe(current.tail(20), use_container_width=True)
+st.dataframe(current.sort_values("timestamp", ascending=False).head(20), use_container_width=True)
