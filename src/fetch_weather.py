@@ -21,4 +21,3 @@ if __name__ == "__main__":
     for city in CITIES:
         data = fetch_current_weather(city)
         print(f"{city}: {data['main']['temp']}°C")
-            
